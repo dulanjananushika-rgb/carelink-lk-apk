@@ -1,9 +1,9 @@
 # CARELINK LK for Android
 
-[Download the latest APK](https://github.com/dulanjananushika-rgb/carelink-lk-apk/releases/latest/download/CARELINK-LK-portfolio.apk)
+[Download CARELINK LK 1.1.0 APK](https://github.com/dulanjananushika-rgb/carelink-lk-apk/releases/download/v1.1.0-on-device/CARELINK-LK-care-planner-v1.1.0.apk)
 
-This portfolio build runs offline on Android 7.0 or newer. It includes Sinhala, Tamil, and English screens with illustrative family, medicine, caregiver, and booking data. Changes made in the app stay on the phone until the app restarts. It does not send real bookings, reminders, calls, or emergency alerts.
+CARELINK LK is an on-device care planner for Android 7.0 and newer. It starts with your own care circle instead of sample records. Add family profiles, clinician-provided medicine schedules, taken/skipped doses, optional local reminders, appointments, care tasks, health readings, notes and phone contacts. Records remain on the same phone after reopening the app. The interface is available in English, Sinhala and Tamil, and works without Wi-Fi or a computer.
 
-Open the downloaded APK on your Android phone and choose **Install**. Android may ask you to allow installs from your browser or Files app. The APK is signed for portfolio installation and is not a Play Store release.
+Open the downloaded APK on your Android phone and choose **Install**. Android may ask you to allow installs from your browser or Files app. Version 1.1.0 uses the same package and signing certificate as version 1.0.0, so it can update an existing installation without removing locally stored data. Avoid uninstalling the old app first: uninstalling can delete its data.
 
-The source repository is private. This public repository contains only download information and release assets.
+The APK has no cloud sync, live caregiver booking, payment, or ambulance dispatch. Call a saved contact or 1990 directly for urgent help. Medicine reminders depend on Android notification and battery settings. This is a direct-install portfolio release, not a Play Store release. The source repository is private; this public repository hosts download information and APK assets.
