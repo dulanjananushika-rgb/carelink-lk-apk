@@ -1,1 +1,1 @@
-b83f87353adff7d997ced7939aad9e375d5fabb2adf9eab0005ffa14c9d33ca3  CARELINK-LK-care-planner-v1.1.0.apk
+c4028123a0755f3634dcdef395d151b6df096d4ba44b10bda80271e2d50664a2  CARELINK-LK-care-workflow-v1.2.0.apk
